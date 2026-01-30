@@ -148,10 +148,10 @@
     <table align="center">
     <tr align="center">
       <td width="1000">
-      <img width="500" height = "300" src="https://github.com/user-attachments/assets/eed13141-e485-4dc9-8545-078f22bcdae6" />
+      <img src="https://github.com/user-attachments/assets/eed13141-e485-4dc9-8545-078f22bcdae6" />
     </td>
     <td width="1000">
-      <img width="500" height = "274" src="https://github.com/user-attachments/assets/6c2c19a1-eb9e-499b-be94-fde052f47af2" />
+      <img src="https://github.com/user-attachments/assets/6c2c19a1-eb9e-499b-be94-fde052f47af2" />
     </td>
   </tr>
 <table>
