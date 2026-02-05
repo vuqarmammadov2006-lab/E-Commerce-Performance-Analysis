@@ -29,7 +29,7 @@
   <tr>
     <div width="920">
       <h1 align="center">Executive Summary</h1>
-     <img width="1324" height="744" alt="image" <img width="945" height="303" alt="image" src="https://github.com/user-attachments/assets/377664ad-f0fc-4e69-a7ce-824a98241f08" />
+     <img <img src="https://github.com/user-attachments/assets/377664ad-f0fc-4e69-a7ce-824a98241f08" />
       <td width="460" valign="top">
         <ol>
           <li>
